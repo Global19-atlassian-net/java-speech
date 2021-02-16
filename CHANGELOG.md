@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.24.12](https://www.github.com/googleapis/java-speech/compare/v1.24.11...v1.24.12) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#427](https://www.github.com/googleapis/java-speech/issues/427)) ([1492dc7](https://www.github.com/googleapis/java-speech/commit/1492dc70da49e8c3b629e907fd1d3171a5d9be4a))
+
 ### [1.24.11](https://www.github.com/googleapis/java-speech/compare/v1.24.10...v1.24.11) (2021-02-01)
 
 
